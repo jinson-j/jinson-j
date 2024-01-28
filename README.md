@@ -19,21 +19,23 @@
 	    <br>
 	    A <b>dedicated and ambitious </b> computer science student &nbsp;
 	    <br>
-	    <b>eager to embark on a journey into the world of tech and gain invaluable hands-on experience</b>
+	    <b>that is eager to embark on a journey into the world of tech and gain invaluable hands-on experience</b>
 	    through relentless curiosity and an insatiable desire to explore emerging technologies!
 	</em> 
 	<br>
 	<img src="https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif" width="50" /> 
-	<b><i align="center">Thought : "BETTER 3 HOURS TOO SOON THAN A MINUTE TOO LATE"</i></b> 
+	<b><i align="center">"If at first you don't succeed; call it version 1.0"</i></b> 
 	<img src="https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif" width="50" />
 </p>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">***About me ....***
 
 ✔ I’m looking to learn more about **OpenCV** and **PyTorch**🥰
+
 ✔ Reach out to me whenever... *I often glued to my computer!*
+
 ✔ Fun fact : *The word for "SPAM" (the canned mystery meat) comes from spice and ham* 🐷
 
 ## 🛠️ My Skills
@@ -79,12 +81,15 @@
 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jinson-j&theme=radical" alt="jinson-j"  /></p>
-
-<hr>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinson-j&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jinson-j&show_icons=true&locale=en&theme=radical" alt="ovi" width="410" /></p>
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jinson-j&theme=radical" alt="jinson-j"  />
+
+
+<p align="center">
+	<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;
+	 <i><b>Git Activeness</b></i>
+ </p>
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinson-j&show_icons=true&locale=en&layout=compact&theme=radical" alt="ovi" /> &nbsp;
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=jinson-j&show_icons=true&locale=en&theme=radical" alt="ovi" width="410" />
+</p>
