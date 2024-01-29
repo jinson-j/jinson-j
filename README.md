@@ -37,9 +37,9 @@
 <br>
 
 ### About me....
-- I’m looking to learn more about **OpenCV** and **PyTorch**
+- I’m looking to learn more about **OpenCV** and **PyTorch**!
 
 - Reach out to me whenever... *I often glued to my computer!*
 
-- Fun fact : *The word for "SPAM" (the canned mystery meat) comes from spice and ham* 🐷
+- Fun fact : *The word for "SPAM" (the canned mystery meat) comes from spice and ham*! 🐷
 
