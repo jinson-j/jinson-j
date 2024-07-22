@@ -33,7 +33,4 @@
 	<img src="https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif" width="50" />
 </p>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" />
-<br>
-
 
