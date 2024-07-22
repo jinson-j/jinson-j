@@ -36,10 +36,4 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" />
 <br>
 
-### About me....
-- I’m looking to learn more about **OpenCV** and **PyTorch**!
-
-- Reach out to me whenever... *I often glued to my computer!*
-
-- Fun fact : *The word for "SPAM" (the canned mystery meat) comes from spice and ham*! 🐷
 
