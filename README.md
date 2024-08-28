@@ -19,7 +19,7 @@
 	    Hi there, I'm Jinson Jimmy an undergrad studying at the <a href="https://www.cs.umd.edu/" target="_blank"> <b>University of Maryland</b>, College Park</a>. <br><br>
 	    <img src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width="100px"> <br>
 	    <br>
-	    A <b>dedicated and ambitious </b> computer science student that is... 
+	    A <b>dedicated and ambitious </b> computer science student that is
 	    <br>
 	    <b> eager to embark on a journey into the world of technology 
 	    <br>
