@@ -1,6 +1,6 @@
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=jinson-j&color=brightgreen" alt="watching_count" />
-	<img src="https://img.shields.io/badge/Age: -18-blue" />
+	<img src="https://img.shields.io/badge/Age: -19-blue" />
 	<img src="https://img.shields.io/badge/Lives: -Chester Springs-success" />
 	<img src="https://img.shields.io/badge/Main Focus: -Machine Learning @ UMD-red" />
 </p>
