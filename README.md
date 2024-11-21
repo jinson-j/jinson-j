@@ -16,15 +16,7 @@
 <p align="center">
 	<em>
 	    Hi there, I'm Jinson Jimmy an undergrad studying at the <a href="https://www.cs.umd.edu/" target="_blank"> <b>University of Maryland</b>, College Park</a>. <br><br>
-	    <img src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width="100px"> <br>
-	    <br>
-	    A <b>dedicated and ambitious </b> computer science student that is
-	    <br>
-	    <b> eager to embark on a journey into the world of technology 
-	    <br>
-	    and gain invaluable hands-on experience</b> through relentless 
-	    <br>
-	    curiosity and an insatiable desire to explore emerging technologies!
+	    <img src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width="100px"> 
 	</em> 
 	<br> 
 	<img src="https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif" width="50" /> 
