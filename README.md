@@ -5,7 +5,7 @@
 	<img src="https://img.shields.io/badge/Main Focus: -Machine Learning @ UMD-red" />
 </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I my name is Jinson Jimmy! :) </h1> 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Jinson Jimmy :) </h1> 
 	<p align="center">
 		<a href="https://www.linkedin.com/in/jinsonjimmy/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="33" /></a>  
 		&nbsp;
