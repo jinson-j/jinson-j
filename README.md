@@ -10,7 +10,7 @@
 		<a href="https://www.linkedin.com/in/jinsonjimmy/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="33" /></a>  
 		&nbsp;
 		&nbsp;
-		<a href = "mailto: jinson.jimmy05@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+		<a href = "mailto: jinson.jimmy05@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30"  /></a>
 	</p>
 
 <p align="center">
