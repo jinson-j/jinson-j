@@ -8,7 +8,7 @@
 
 <p align="center">
 	<em>
-	    Hi there, I'm Jinson Jimmy an undergrad studying at the <a href="https://www.cs.umd.edu/" target="_blank"> <b>University of Maryland</b>, College Park</a>. <br><br>
+	    Hi there, I'm Jinson Jimmy, an undergrad studying at the <a href="https://www.cs.umd.edu/" target="_blank"> <b>University of Maryland</b>, College Park</a>. <br><br>
 	    <img src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" width="100px"> 
 	</em> 
 	<br> 
