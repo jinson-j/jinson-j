@@ -16,5 +16,3 @@
 	<b><i align="center">"If at first you don't succeed; call it version 1.0"</i></b> 
 	<img src="https://media.tenor.com/bWUeVRqW9-IAAAAi/fast-cat-cat-excited.gif" width="50" />
 </p>
-
-<embed type="text/html" src="jinsonjimmy.com" width="500" height="200">
